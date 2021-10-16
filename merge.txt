@@ -2,5 +2,5 @@ learning merge
 fast forward merge
 3 way merging by remote server
 3 way merging in local repository
-scenario of non conflit
+
 
