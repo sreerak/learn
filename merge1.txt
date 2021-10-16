@@ -1,1 +1,2 @@
 second merge file
+rebase conflit local
