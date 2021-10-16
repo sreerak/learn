@@ -1,1 +1,2 @@
 learning merge
+fast forward merge
