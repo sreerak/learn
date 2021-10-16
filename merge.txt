@@ -1,2 +1,3 @@
 learning merge
 fast forward merge
+3 way merging by remote server
